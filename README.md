@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:4em">Api-Postgres-Dotenv</h1>
 
 ## Sobre
-API com CRUD de Produtos
+API com CRUD de Produtos em NodeJS
 
 ## Tecnologias envolvidas
 
